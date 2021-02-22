@@ -1,1 +1,1 @@
-# sample
+# sample repositories for github
